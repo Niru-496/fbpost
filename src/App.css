@@ -45,3 +45,29 @@ display: flex;
   /* margin-top: -1% !important; */
   margin-left: 4% !important;
 }
+
+.showsDiv{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 1%;
+
+}
+.showsDiv{
+ display: flex;
+ width: 1200px !important;
+ margin-left: -70% !important;
+ margin-top: 2%;
+
+
+}
+.singleDiv{
+  width: 50px;
+  height: 50px;
+
+}
+
+.DisplayDiv{
+  margin-top: 10%;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+}
